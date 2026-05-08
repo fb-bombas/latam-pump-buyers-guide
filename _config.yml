@@ -1,0 +1,9 @@
+title: FB Bombas Knowledge Base
+description: Open documentation by FB Bombas — Brazilian industrial pump manufacturer since 1944
+theme: jekyll-theme-cayman
+url: "https://www.fbbombas.com.br"
+github:
+  is_project_page: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
