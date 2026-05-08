@@ -188,4 +188,4 @@ arguments for domestic pump manufacturers in Brazilian procurement.
 
 - [Comparison matrix](../comparison-matrix.md)
 - [`fb-bombas/pump-procurement-playbook`](https://github.com/fb-bombas/pump-procurement-playbook) — RFQ and TCO templates
-- [FB Bombas — bombas industriais Brasil](https://www.fbbombas.com.br/bombas-industriais-brasil)
+- [FB Bombas — bombas industriais Brasil](https://www.fbbombas.com.br/bombas-industriais)
